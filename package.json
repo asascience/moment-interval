@@ -10,7 +10,7 @@
     "node": "*"
   },
   "dependencies": {
-    "moment": "~2.5"
+    "moment": "^2.5"
   },
   "devDependencies": {
     "grunt": "latest",
